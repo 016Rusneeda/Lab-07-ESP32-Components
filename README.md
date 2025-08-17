@@ -15,4 +15,10 @@
 ### ทดสอบการทำงาน ด้วย idf.py qemu
 <img width="1186" height="689" alt="image" src="https://github.com/user-attachments/assets/bc9f3b43-e7ae-4193-9f67-a8c6eed0caba" />
 
-# Lab 7.4
+## ความแตกต่างของแต่ละLab
+- Lab 7-1: ใช้ local component (ในเครื่อง)
+- Lab 7-2: ใช้ managed component จาก GitHub URL
+- Lab 7-3: ใช้การการสร้าง component ใหม่ด้วยคำสั่ง `idf.py create-component`
+สร้าง 2 components:
+1. **Sensor Component** - อ่านค่า temperature, humidity และคำนวณ heat index
+2. **Display Component** - แสดงผลข้อมูลในรูปแบบตาราง
