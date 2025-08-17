@@ -9,3 +9,10 @@
 
 
 # Lab 7.3
+### ทดสอบการทำงาน ด้วย idf.py qemu monitor
+<img width="1209" height="957" alt="สกรีนช็อต 2025-08-17 170701" src="https://github.com/user-attachments/assets/e8831582-b16d-43f2-8ef0-70b7874e26c7" />
+
+### ทดสอบการทำงาน ด้วย idf.py qemu
+<img width="1186" height="689" alt="image" src="https://github.com/user-attachments/assets/bc9f3b43-e7ae-4193-9f67-a8c6eed0caba" />
+
+# Lab 7.4
