@@ -19,3 +19,4 @@
 2. รันคำสั่ง `idf.py build` (จะดาวน์โหลด component จาก GitHub อัตโนมัติ)
 3. ทดสอบด้วย QEMU
 
+![alt text](image.png)
